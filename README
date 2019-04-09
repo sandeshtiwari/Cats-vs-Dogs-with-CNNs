@@ -1,0 +1,4 @@
+Cats Vs Dogs recognizer
+This is a Cats vs Dogs recognizer project built using Convolutinal Neural Networks using the Keras framework of python.
+After running the whole notebook the models are saved as 'cats_and_dogs_small_1.h5' and 'cats_and_dogs_small_2.h5.'
+Download the dataset from https://www.kaggle.com/c/dogs-vs-cats/data
